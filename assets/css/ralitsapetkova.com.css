@@ -1,3 +1,9 @@
 #affiliation {
   color: white;
 }
+
+#footer_wrap {
+  text-align: center;
+  color: white;
+  font-size: 12px;
+}

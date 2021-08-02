@@ -1,5 +1,6 @@
-#affiliation {
+#affiliation a {
   color: white;
+  test-decoration: none;
 }
 
 #footer_wrap {

@@ -5,5 +5,17 @@
 #footer_wrap {
   text-align: center;
   color: white;
+}
+
+#footer_wrap .name {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#footer_wrap .contact {
   font-size: 12px;
+}
+
+#footer_wrap a {
+  text-decoration: none;
 }

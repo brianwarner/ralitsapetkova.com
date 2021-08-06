@@ -16,12 +16,15 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
 
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-          <p id="affiliation"><a href="https://weatherhead.case.edu">Weatherhead School of Management<br />
-            Case Western Reserve University</a></p>
-
-          <img id="portrait" src="./portrait.jpg">
+          <div id="header_text">
+            <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+            <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+            <p id="affiliation"><a href="https://weatherhead.case.edu">Weatherhead School of Management<br />
+              Case Western Reserve University</a></p>
+          </div>
+          <div id="header_img">
+            <img id="portrait" src="./portrait.jpg">
+          </div>
 
         </header>
     </div>

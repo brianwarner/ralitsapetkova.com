@@ -3,6 +3,15 @@
   test-decoration: none;
 }
 
+#header_text {
+  float: left;
+}
+
+#header_img {
+  float: left;
+  height: 200px;
+}
+
 #footer_wrap {
   text-align: center;
   color: white;

@@ -21,11 +21,21 @@
           <p id="affiliation"><a href="https://weatherhead.case.edu">Weatherhead School of Management<br />
             Case Western Reserve University</a></p>
 
+          <img id="portrait" src="/portrait.jpg">
+
         </header>
     </div>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
+      <section id="menu" class="inner">
+        {% for menu-item in site.data.menus.sidebar %}
+          <ul>
+           <li>{{ menu-item.title}}</li>
+          </ul>
+        {% endfor %}
+      </section>
+
       <section id="main_content" class="inner">
         {{ content }}
       </section>

@@ -1,6 +1,6 @@
 # Published papers
 
-## DOES IDIOSYNCRATIC VOLATILITY PROXY FOR RISK EXPOSURE? (WITH ZHANHUI CHEN), 2014
+## Does Idiosyncratic Volatility Proxy For Risk Exposure? (with Zhanhui Chen), 2014
 
 *Review of Financial Studies 25, 2745-2787*
 
@@ -8,7 +8,7 @@ We decompose aggregate market variance into an average correlation component and
 
 [Download »](/papers/Does_Idiosyncratic_Volatility_Proxy_for_Risk_Exposure-Chen-Petkova.pdf)
 
-## CORRELATION RISK (WITH CNV KRISHNAN AND PETER RITCHKEN), 2009
+## Correlation Risk (with CNV Krishnan And Peter Ritchken), 2009
 
 *Journal of Empirical Finance 16, 353-367, Lead Article*
 
@@ -16,7 +16,7 @@ Investors hold portfolios of assets with different risk-reward profiles for dive
 
 [Download »](/papers/JEF-correlation_risk.pdf)
 
-## THE EXPECTED VALUE PREMIUM (WITH LONG CHEN AND LU ZHANG), 2007
+## The Expected Value Premium (with Long Chen And Lu Zhang), 2007
 
 *Journal of Financial Economics 87, 269-280*
 
@@ -24,7 +24,7 @@ Fama and French (2002) estimate the equity premium using dividend growth rates t
 
 [Download &raquo;](/papers/JFE-the_expected_value_premium-chen_petkova_zhang-2007_april.pdf)
 
-## DO THE FAMA-FRENCH FACTORS PROXY FOR INNOVATIONS IN PREDICTIVE VARIABLES?, 2006
+## Do The Fama-French Factors Proxy For Innovations In Predictive Variables?, 2006
 
 *Journal of Finance 61, 581-612*
 
@@ -32,7 +32,7 @@ The Fama-French factors HML and SMB are correlated with innovations in variables
 
 [Download &raquo;](/papers/JF-do_the_fama_french_factors_proxy_for_innovations_in_predictive_variables-petkova-2006_april.pdf)
 
-## IS VALUE RISKIER THAN GROWTH? (WITH LU ZHANG), 2005
+## Is Value Riskier Than Growth? (with Lu Zhang), 2005
 
 *Journal of Financial Economics 78, 187-202*
 

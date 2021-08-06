@@ -1,7 +1,7 @@
 sidebar:
   - url: /
-     title: Home
+    title: Home
   - url: /about
-     title: About
+    title: About
   - url: /publications
-     title: Publications
+    title: Publications

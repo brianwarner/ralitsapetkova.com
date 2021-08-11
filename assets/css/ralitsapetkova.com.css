@@ -3,6 +3,16 @@
   test-decoration: none;
 }
 
+ul.menu li {
+  display: inline;
+}
+
+ul.menu a {
+  padding: 10px 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 #footer_wrap {
   text-align: center;
   color: white;

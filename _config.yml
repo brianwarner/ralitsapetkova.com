@@ -4,3 +4,5 @@ plugins:
 show_downloads: false
 title: Ralitsa Petkova
 description: Associate Professor
+kramdown:
+  auto_ids: true

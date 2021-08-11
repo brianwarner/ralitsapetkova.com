@@ -3,11 +3,11 @@
   test-decoration: none;
 }
 
-ul.menu li {
+.menu li {
   display: inline;
 }
 
-ul.menu a {
+.menu a {
   padding: 10px 20px;
   font-weight: bold;
   text-decoration: none;

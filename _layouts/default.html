@@ -28,6 +28,15 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
+
+      <section id="menu" class="inner">
+        {% for menu-item in site.data.menus.sidebar %}
+          <ul>
+            <li><a href="{{ menu=item.url }}">{{ menu-item.title}}</a></li>
+          </ul>
+        {% endfor %}
+      </section>
+
       <section id="main_content" class="inner">
         {{ content }}
       </section>

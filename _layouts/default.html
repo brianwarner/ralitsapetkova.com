@@ -29,15 +29,13 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
 
-      <section id="menu" class="inner">
-        <ul>
+      <section id="main_content" class="inner">
+        <ul id="menu">
           {% for menu-item in site.data.menus.sidebar %}
             <li><a href="{{ menu-item.url }}">{{ menu-item.title}}</a></li>
           {% endfor %}
         </ul>
-      </section>
 
-      <section id="main_content" class="inner">
         {{ content }}
       </section>
     </div>

@@ -2,14 +2,7 @@
 title: Ralitsa Petkova
 ---
 
-## About me
-
-**Associate Professor**<br>
-Banking and Finance Department<br>
-[Weatherhead School of Management](http://weatherhead.case.edu/)<br>
-[Case Western Reserve University](https://case.edu)
-
-### Education
+## Education
 
 - **PhD** Finance, [University of Rochester](http://www.rochester.edu/)
 - **MS** Applied Economics, [University of Rochester](http://www.rochester.edu/)
@@ -57,7 +50,6 @@ We study the relative risk of value and growth stocks. We find that time-varying
 
 [Download &raquo;](/papers/JFE-is_value_riskier_than_growth-petkova_zhang-2005_june.pdf)
 
-## Contact
+&nbsp;
 
-Email: [mailto:ralitsa.petkova@case.edu](ralitsa.petkova@case.edu)
-
+&nbsp;

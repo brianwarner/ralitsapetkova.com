@@ -30,11 +30,11 @@
     <div id="main_content_wrap" class="outer">
 
       <section id="menu" class="inner">
-        {% for menu-item in site.data.menus.sidebar %}
-          <ul>
+        <ul>
+          {% for menu-item in site.data.menus.sidebar %}
             <li><a href="{{ menu-item.url }}">{{ menu-item.title}}</a></li>
-          </ul>
-        {% endfor %}
+          {% endfor %}
+        </ul>
       </section>
 
       <section id="portrait" class="inner">

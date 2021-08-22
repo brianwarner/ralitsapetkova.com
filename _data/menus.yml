@@ -1,6 +1,4 @@
-sidebar:
-  - url: ./
-    title: Home
+menubar:
   - url: "#education"
     title: Education
   - url: "#published-papers"

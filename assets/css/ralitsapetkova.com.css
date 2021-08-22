@@ -7,10 +7,6 @@
   border-bottom: 2px solid #aaa;
 }
 
-#menu.inner {
-  padding: 10px;
-}
-
 #menu li {
   display: inline;
 }
@@ -18,7 +14,7 @@
 #menu a {
   color: #444;
   font-size: 18px;
-  padding: 10px 20px;
+  padding: 20px 20px;
   margin-right: 20px;
   font-weight: bold;
   text-decoration: none;

@@ -16,7 +16,7 @@ title: Ralitsa Petkova
 
 We decompose aggregate market variance into an average correlation component and an average variance component. Only the latter commands a negative price of risk in the cross-section of portfolios sorted by idiosyncratic volatility. Portfolios with high (low) idiosyncratic volatility relative to the Fama-French model have positive (negative) exposures to innovations in average stock variance and therefore lower (higher) expected returns. These two findings explain the idiosyncratic volatility puzzle of Ang, et al. (2006, 2009). The factor related to innovations in average variance also reduces the pricing errors of book-to-market and momentum portfolios relative to the Fama-French (1993) model.
 
-[Download »](/papers/Does_Idiosyncratic_Volatility_Proxy_for_Risk_Exposure-Chen-Petkova.pdf)
+[Download &raquo;](/papers/Does_Idiosyncratic_Volatility_Proxy_for_Risk_Exposure-Chen-Petkova.pdf)
 
 ### Correlation Risk (with CNV Krishnan And Peter Ritchken), 2009
 
@@ -24,7 +24,7 @@ We decompose aggregate market variance into an average correlation component and
 
 Investors hold portfolios of assets with different risk-reward profiles for diversification benefits. Conditional on the volatility of assets, diversification benefits can vary over time depending on the correlation structure among asset returns. The correlation of returns between assets has varied substantially over time. To insure against future “low diversification” states, investors might demand securities that offer higher payouts in these states. If this is the case, then investors would pay a premium for securities that perform well in regimes in which the correlation is high. We empirically test this hypothesis and find that correlation carries a significantly negative price of risk, after controlling for asset volatility and other risk factors.
 
-[Download »](/papers/JEF-correlation_risk.pdf)
+[Download &raquo;](/papers/JEF-correlation_risk.pdf)
 
 ### The Expected Value Premium (with Long Chen And Lu Zhang), 2007
 
@@ -53,3 +53,4 @@ We study the relative risk of value and growth stocks. We find that time-varying
 &nbsp;
 
 &nbsp;
+
